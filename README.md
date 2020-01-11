@@ -1,1 +1,2 @@
-# Promises-androidApp
+MITTP project 
+FERIT 2019/2020
